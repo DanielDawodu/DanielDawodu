@@ -1,7 +1,3 @@
-Here’s the updated README with a focus on learning backend technologies:
-
----
-
 # Hi there, I'm Dawodu Daniel! 👋
 
 🎨 **Frontend Engineer**  
@@ -39,8 +35,4 @@ I'm a dedicated **Frontend Engineer** with a passion for crafting visually stunn
 
 ---
 
-💡 *"Design is not just what it looks like and feels like. Design is how it works."*  
-
----
-
-Let me know if this works for you! 😊
+💡 **"Design is not just what it looks like and feels like. Design is how it works."**
